@@ -1,0 +1,29 @@
+@media(max-width: 992px) {
+	.container {
+		width: 960px;
+		margin: 0 auto;
+	}
+	.pixer_header_nav {
+		width: 960px;
+		margin: 0 auto;
+	}
+	.main-img {
+		width: 30vw;
+		height: 32vh;
+	}
+	.main_wrapper {
+	padding-top: 70px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	}
+	.main_subtitle {
+		text-align: center;
+		padding-top: 30px;
+	}
+	.main_subtext {
+		text-align: center;
+	}
+
+}
